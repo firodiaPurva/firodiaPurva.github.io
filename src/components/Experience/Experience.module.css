@@ -1,0 +1,56 @@
+.container {
+  color: var(--color-text);
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 35px;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  padding-bottom: 65px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.experienceList {
+  list-style: none;
+  padding: 0;
+}
+
+.experienceItem {
+  background: #08152e;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.role {
+  font-size: 30px;
+  font-weight: 500;
+  margin: 0 0 10px 0;
+}
+
+.period {
+  font-size: 20px;
+  font-weight: 300;
+  margin: 0 0 10px 0;
+}
+
+.detailsList {
+  list-style-position: inside;
+  font-size: 20px;
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.detail {
+  margin-bottom: 5px;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Associate Full-Stack Developer",
+    "organisation": "Antargyan Cloudworks, India",
+    "startDate": "Jan 2023",
+    "endDate": "March 2023",
+    "experiences": [
+      "Utilized data analytics techniques to analyze user engagement and behavior on an Edutech website. Leveraged tools like Figma to create high-fidelity prototypes and track user interactions, resulting in a 10% increase in user engagement and a 30% decrease in bounce rates.",
+      "Employed Python for data analysis, front-end design, and backend development, ensuring seamless integration and a cohesive user experience. This comprehensive approach facilitated informed decision-making through actionable insights gleaned from Python-based data analysis and visualization."
+    ],
+    "imageSrc": "history/antargyan.png"
+  },
+  {
+    "role": "Salesforce Developer Intern",
+    "organisation": "Salesforce, India",
+    "startDate": "Sep 2022",
+    "endDate": "Nov 2022",
+    "experiences": [
+      "Completed Salesforce Developer Catalyst Trail Mix, earning two super badges (Apex Specialist and Process Automation Specialist). Worked on mini projects focused on data analysis and process automation using Salesforce."
+    ],
+    "imageSrc": "history/salesforce.png"
+  }
+]

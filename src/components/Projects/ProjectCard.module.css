@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: #0f2141; /* Solid background color */
+  padding: 14px 18px; /* Medium card padding */
+  max-width: 350px; /* Medium card width */
+  margin-bottom: 25px; /* Card margin */
+  text-align: center;
+  text-decoration: none;
+  max-height: 350px;
+  width: 350px;
+}
+
+.cardLink {
+  text-decoration: none;
+}
+
+.image {
+  width: 100%;
+  height: 200px; /* Fixed height for images */
+  object-fit: cover;
+  border-radius: 8px; /* Optional: Add border-radius for rounded corners */
+  margin-bottom: 12px; /* Margin for image */
+}
+
+.title {
+  font-size: 20px; /* Medium title size */
+  font-weight: 700;
+  color: var(--color-text);
+}

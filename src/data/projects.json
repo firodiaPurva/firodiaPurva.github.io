@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Depression and Gender Classification Analysis",
+    "imageSrc": "projects/ML.jpg",  
+    "description": "Developed machine learning models to classify individuals' depression levels and gender using acoustic features from speech recordings. Achieved high accuracy with XGBoost model, assessing model performance and fairness.",
+    "skills": ["Python", "Machine Learning", "Feature Engineering"],
+    "source": "https://github.com/firodiaPurva/Depression-GenderClassificationAnalysis"  
+  },
+  {
+    "title": "Traffic Sign Image Recognition and Classification",
+    "imageSrc": "projects/Traffic Signs.jpg",   
+    "description": "Implemented CNN (AlexNet) model for traffic sign recognition, achieving 90% precision on a test dataset. Enhanced VR image recognition applications with increased accuracy.",
+    "skills": ["Python", "Keras", "CNN", "Image Recognition"],  
+    "source": "https://github.com/firodiaPurva/Traffic_Signs_WebApp"     
+  },
+  {
+    "title": "Customer Behavior Analysis",
+    "imageSrc": "projects/CUSTOMERbehaviour.jpg",   
+    "description": "Led analysis of customer behavior using Random Forest Models, achieving a 20% increase in sales conversion rates. Identified key behavioral patterns with 94% accuracy.",
+    "skills": ["Python", "Random Forest", "Feature Engineering"],   
+    "source": "https://github.com/firodiaPurva/Customer_Behavior_Analysis"     
+  },
+  {
+    "title": "Food Delivery Analysis",
+    "imageSrc": "projects/food analysis.jpg",   
+    "description": "Analyzed delivery time efficiency, identifying biases and providing recommendations for optimizing delivery operations. Assessed factors like location, traffic, and operational biases.",
+    "skills": ["Python", "Data Analysis", "Optimization"],  
+    "source": "https://github.com/firodiaPurva/Food-Delivery-Analysis"     
+  },
+  {
+    "title": "Wine Quality Analysis",
+    "imageSrc": "projects/wine.jpg",
+    "description": "Examined the quality of red and white wines using physicochemical properties. Utilized regression modeling, hypothesis testing, and ANOVA to identify key predictors of wine quality and differences between wine types.",
+    "skills": ["Python", "Data Analysis", "Regression Modeling", "ANOVA"],
+    "source": "https://github.com/firodiaPurva/WINE-QUALITY-ANALYSIS"
+  },
+  {
+    "title": "Coffee Contains More Caffeine than an Energy Drink",
+    "imageSrc": "projects/Is Coffee Better than Energy Drinks_.jpg",   
+    "description": "Utilized web scraping and statistical analysis to compare caffeine content in coffee vs. energy drinks. Conducted hypothesis testing to confirm higher caffeine content in coffee.",
+    "skills": ["Python", "Web Scraping", "Statistics"],  
+    "source": "https://github.com/firodiaPurva/Coffee-Contains-more-Caffeine-than-an-Energy-Drink"     
+  }
+]
