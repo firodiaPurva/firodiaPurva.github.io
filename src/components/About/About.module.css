@@ -41,6 +41,10 @@
   font-size: 18px;
 }
 
+.aboutItems a{
+  color: #fff;
+}
+
 .aboutItem {
   display: flex;
   flex-direction: row;
@@ -66,8 +70,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
-  padding-bottom: 60px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .skillsCategory {
@@ -128,7 +131,7 @@
 
 
 .skillsHoverContainer {
-  margin-top: 40px;
+  margin-top: 15px;
 }
 
 .skillsTitle {

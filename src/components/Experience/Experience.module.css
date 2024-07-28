@@ -12,7 +12,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
-  padding-bottom: 65px;
+  padding-bottom: 55px;
 }
 
 .content {
@@ -29,6 +29,7 @@
   background: #08152e;
   border-radius: 10px;
   padding: 20px;
+  padding-top: 0px;
   margin-bottom: 20px;
 }
 
