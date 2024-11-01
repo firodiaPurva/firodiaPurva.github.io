@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         I'm a passionate Data Scientist and Developer currently pursuing my Master's in Data Science.
         </p>
-        <a href="https://drive.google.com/file/d/1tSQ0pd515k72Vr-W_xL9jt8mmLJXKY4i/view?usp=sharing" className={styles.contactBtn} target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1tSQ0pd515k72Vr-W_xL9jt8mmLJXKY4i/view" className={styles.contactBtn} target="_blank" rel="noopener noreferrer">
         Resume
         </a>
       </div>
