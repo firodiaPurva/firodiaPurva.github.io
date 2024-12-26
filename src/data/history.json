@@ -1,6 +1,19 @@
 [
   {
-    "role": "Associate Full-Stack Developer",
+    "role": "Graduate Teaching Assistant",
+    "organisation": "University of Colorado Boulder, USA",
+    "startDate": "August 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Facilitating Labs and Discussions: Led hands-on lab sessions and classroom discussions for advanced Digital Signal Processing (DSP) courses, helping students apply concepts like Fourier transforms, Z-transforms, and filter design using tools like MATLAB and Python.",
+      "Grading and Feedback: Evaluated assignments, projects, and exams, providing detailed feedback to reinforce student understanding of digital filtering techniques.",
+      "Course Material Development: Assisted in preparing lecture notes, problem sets, and lab exercises to ensure alignment with course learning objectives.",
+      "Student Support and Mentorship: Served as a key academic resource, guiding students in applying DSP principles to real-world domains like data science, audio/image processing, and communications systems."
+    ],
+    "imageSrc": "history/antargyan.png"
+  },
+  {
+    "role": "Associate Full-Stack Developer Intern",
     "organisation": "Antargyan Cloudworks, India",
     "startDate": "Jan 2023",
     "endDate": "March 2023",
